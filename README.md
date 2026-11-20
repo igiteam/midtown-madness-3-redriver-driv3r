@@ -16,7 +16,6 @@ A total conversion mod for Midtown Madness 3 that rebuilds the story-driven, on-
 
 [https://vimm.net/vault/26112](https://vimm.net/vault/26112)
 
-
 [![Midtown Madness 3 cut van hidden in files?](https://img.youtube.com/vi/HmgvguPchoA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vmh5al9aWnNkSE0)
 
 [![ReDriver2 - Chase The Intruder](https://img.youtube.com/vi/_XmbPx5tKRU/hqdefault.jpg)](https://ytembed.macosxjs.com/?X1htYlB4NXRLUlU)
@@ -24,6 +23,8 @@ A total conversion mod for Midtown Madness 3 that rebuilds the story-driven, on-
 [![DRIV3R - Full Game Walkthrough (4K)](https://img.youtube.com/vi/3_wTIdNXL_s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?M193VElkTlhMX3M)
 
 [![DRIVER3 intro ellowdrone C mon Try A Little Bit](https://img.youtube.com/vi/hX9E5y_cRsI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aFg5RTV5X2NSc0k)
+
+[![Grand Theft Auto III: First Person Mod - Lets Play](https://img.youtube.com/vi/KBBMgx3Ai5E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S0JCTWd4M0FpNUU)
 
 [![Midtown Madness 3 Xbox](https://raw.githubusercontent.com/igiteam/midtown-madness-3-driv3r-redriver/refs/heads/main/midtown-madness-3-xbox.png)](https://vimm.net/vault/26112)
 
