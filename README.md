@@ -10,9 +10,9 @@ A total conversion mod for Midtown Madness 3 that rebuilds the story-driven, on-
 [https://api.github.com/repos/igiteam/midtown-madness-3-driv3r-redriver/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/midtown-madness-3-driv3r-redriver/git/trees/main?recursive=1)
 
 ## Base gameplay
-[![Midtown Madness 3 cut van hidden in files?](https://img.youtube.com/vi/Vhyj_ZZsdHM/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vmh5al9aWnNkSE0)
+[![Midtown Madness 3 cut van hidden in files?](https://img.youtube.com/vi/HmgvguPchoA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vmh5al9aWnNkSE0)
 
-[![ReDriver2 - Chase The Intruder](https://img.youtube.com/vi/_XmbPx5tKRU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?X1htYlB4NXRLUlU)
+[![ReDriver2 - Chase The Intruder](https://img.youtube.com/vi/_XmbPx5tKRU/hqdefault.jpg)](https://ytembed.macosxjs.com/?X1htYlB4NXRLUlU)
 
 [![DRIV3R - Full Game Walkthrough (4K)](https://img.youtube.com/vi/3_wTIdNXL_s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?M193VElkTlhMX3M)
 
