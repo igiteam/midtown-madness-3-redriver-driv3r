@@ -1,3 +1,36 @@
+# midtown-madness-3-driv3r-redriver
+## Midtown Madness 3 - Driver 2 (Redriver) & Driver 3 Remake
+A total conversion mod for Midtown Madness 3 that rebuilds the story-driven, on-foot-and-behind-the-wheel chases of Driver 2 (2000) and Driver 3 (2004) with Midtown Madness 3's open-city driving, vehicle handling, and multiplayer racing sandbox.
+
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/midtown-madness-3-driv3r-redriver](https://treegit.macosxjs.com/?url=igiteam/midtown-madness-3-driv3r-redriver)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/midtown-madness-3-driv3r-redriver/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/midtown-madness-3-driv3r-redriver/git/trees/main?recursive=1)
+
+## Base gameplay
+[![Midtown Madness 3 cut van hidden in files?](https://img.youtube.com/vi/Vhyj_ZZsdHM/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vmh5al9aWnNkSE0)
+
+[![ReDriver2 - Chase The Intruder](https://img.youtube.com/vi/_XmbPx5tKRU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?X1htYlB4NXRLUlU)
+
+[![DRIV3R - Full Game Walkthrough (4K)](https://img.youtube.com/vi/3_wTIdNXL_s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?M193VElkTlhMX3M)
+
+
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+## Reference links
+[https://archive.org/details/terminator-3-war-of-the-machines](https://archive.org/details/terminator-3-war-of-the-machines)
+
+[https://archive.org/details/the-terminator-future-shock-mr-abandonware](https://archive.org/details/the-terminator-future-shock-mr-abandonware)
+
+---
+
+
+
 # Midtown Madness 3 recompilation
 
 **The recompile is done.** Midtown Madness 3, the 2003 Xbox racing game, is recompiled into a native PC
@@ -400,3 +433,40 @@ Built on [mm3-recomp by Matt Graham (MattSG)](https://github.com/MattSG/mm3-reco
 [lakshya16157](https://github.com/lakshya16157).
 
 Building from source, tools and technical notes are in [DEVELOPERS.md](DEVELOPERS.md).
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
+
