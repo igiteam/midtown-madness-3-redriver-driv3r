@@ -26,6 +26,8 @@ A total conversion mod for Midtown Madness 3 that rebuilds the story-driven, on-
 
 [![Grand Theft Auto III: First Person Mod - Lets Play](https://img.youtube.com/vi/KBBMgx3Ai5E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S0JCTWd4M0FpNUU)
 
+[![Midtown Madness 3 PC Native (PC Port) - v1.5 - Windows11 Pro 64-Bit - Test Video](https://img.youtube.com/vi/ozUXMiwqi2c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?b3pVWE1pd3FpMmM)
+
 [![Midtown Madness 3 Xbox](https://raw.githubusercontent.com/igiteam/midtown-madness-3-redriver-driv3r/refs/heads/main/midtown-madness-3-xbox.png)](https://vimm.net/vault/26112)
 
 
